@@ -3,7 +3,7 @@
  "description": "Demo project for GitHub Actions with PHP and PHPUnit",
  "require": {},
  "require-dev": {
-  "phpunit/phpunit": "^10.0"
+  phpunit/phpunit": "^10.0"
 },
 "autoload": {
  "psr-4": {
